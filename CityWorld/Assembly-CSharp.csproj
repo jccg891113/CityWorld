@@ -53,14 +53,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scenes\Scripts\Core\CoreEnum.cs" />
-     <Compile Include="Assets\Scenes\Scripts\Core\GOV\Gov.cs" />
-     <Compile Include="Assets\Scenes\Scripts\Core\JOB\Federation.cs" />
-     <Compile Include="Assets\Scenes\Scripts\Core\JOB\Job.cs" />
-     <Compile Include="Assets\Scenes\Scripts\Core\LIFE\Life.cs" />
-     <Compile Include="Assets\Scenes\Scripts\Core\Root.cs" />
-     <Compile Include="Assets\Scenes\Scripts\Core\Tool\Kit\IMgrKit.cs" />
-     <Compile Include="Assets\Scenes\Scripts\Core\Tool\Kit\ITick.cs" />
+     <Compile Include="Assets\Scripts\Core\CoreEnum.cs" />
+     <Compile Include="Assets\Scripts\Core\GOV\Gov.cs" />
+     <Compile Include="Assets\Scripts\Core\JOB\Federation.cs" />
+     <Compile Include="Assets\Scripts\Core\JOB\Job.cs" />
+     <Compile Include="Assets\Scripts\Core\LIFE\Life.cs" />
+     <Compile Include="Assets\Scripts\Core\Root.cs" />
+     <Compile Include="Assets\Scripts\Core\Tool\Kit\IMgrKit.cs" />
+     <Compile Include="Assets\Scripts\Core\Tool\Kit\ITick.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/Users/wenjack/Jack/MyGitHub/CityWorld/CityWorld/CityWorld/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>

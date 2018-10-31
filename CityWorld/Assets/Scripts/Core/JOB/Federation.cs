@@ -17,11 +17,15 @@ namespace Core.JOB
 		/// </summary>
 		public int jopClass;
 
+		#region Constrctors
+
 		public Federation (JobType jobType, int jopClass)
 		{
 			this.jobType = jobType;
 			this.jopClass = jopClass;
 		}
+
+		#endregion
 
 		#region ITick implementation
 
